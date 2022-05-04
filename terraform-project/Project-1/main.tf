@@ -1,4 +1,5 @@
 # A test commit test test test
+# another comment
 
 provider "aws" {
   region     = "us-east-1"
